@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Garima Arora, a passionate front-end developer 👨‍💻 </div>  
-  
+  <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
 
 - 🔭 I’m currently working on [ML_Lab]
 https://github.com/Garima-ai/ml_lab  
