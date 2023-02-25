@@ -1,4 +1,4 @@
-[![MasterHead](https://www.dreamstime.com/programming-banner-concept-programming-banner-concept-vector-illustration-line-web-design-image116331713)]
+[![MasterHead]([https://www.dreamstime.com/programming-banner-concept-programming-banner-concept-vector-illustration-line-web-design-image116331713])(https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png))]
 <h1 align="center">Hi 👋, I'm Garima Arora</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
