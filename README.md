@@ -6,17 +6,8 @@
 ### <div align="center">I'm Garima Arora, a passionate front-end developer 👨‍💻 </div>  
   <img align="right" alt="Coding"  width="200" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
 
-- 🔭 I’m currently working on [ML_Lab]
-https://github.com/Garima-ai/ml_lab  
+- 🔭 I’m currently working on various projects
   
-
-- 🌱 I’m currently learning PHP  
-  
-
-- ❓ Ask me about anything related to HTML and CSS  
-  
-
-- ⚡ Fun fact: I am Funny  
   
 
 <br/>  
