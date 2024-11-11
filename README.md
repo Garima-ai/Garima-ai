@@ -6,10 +6,15 @@
 ### <div align="center">I'm Garima Arora, a passionate front-end developer 👨‍💻 </div>  
   <img align="right" alt="Coding"  width="200" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
 
-- 🔭 I’m currently working on various projects
-  
-  
+- 🔭 I’m currently working on [Fruit-Classification-Using-deep-learning](https://github.com/Garima-ai/Fruit-Classification-Using-deep-learning)
 
+- 🌱 I’m currently learning **Machine Learning**
+
+- 👯 I’m looking to collaborate on [Vantek India Associate](https://github.com/mahesh0702/Project-Jobaway)
+
+- 📫 How to reach me **garimaarora2907@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TxTviyxfnvWhv4Spym2UiUoDN8Vntvvm/view?usp=drive_link](https://drive.google.com/file/d/1TxTviyxfnvWhv4Spym2UiUoDN8Vntvvm/view?usp=drive_link)
 <br/>  
 
 
